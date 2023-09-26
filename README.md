@@ -1,6 +1,6 @@
 <h1>
      <img align="center" width="40px" src="https://stileex.xyz/wp-content/uploads/2019/07/diferencia-programa-ordenador-software-ordenator-1-450x302.jpg">
-    <span>Projeto Open Source no GitHub Flávio Fernando Borato </span>
+    <span>Flávio Fernando Borato </span>
 </h1>
 
 <div>
